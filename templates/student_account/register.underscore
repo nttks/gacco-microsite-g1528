@@ -30,7 +30,7 @@
 <div class="toggle-form">
     <div class="section-title">
         <h2>
-            <span class="text"><%- gettext("Already have an account?") %></span>
+            <span class="text">既に三井住友海上社員用のアカウントをお持ちの方はこちら</span>
         </h2>
     </div>
     <button class="nav-btn form-toggle" data-type="login"><%- gettext("Sign in") %></button>
