@@ -31,7 +31,7 @@
 
     <div class="section-title lines">
         <h2>
-            <span class="text"><%- gettext("Sign in") %></span>
+            <span class="text">三井住友海上社員用のアカウントでログイン</span>
         </h2>
     </div>
 
@@ -53,7 +53,7 @@
 <div class="toggle-form">
     <div class="section-title">
         <h2>
-            <span class="text"><%- _.sprintf( gettext("New to %(platformName)s?"), context ) %></span>
+            <span class="text">三井住友海上社員用のアカウントをまだお持ちでない方はこちら</span>
         </h2>
     </div>
     <button class="nav-btn form-toggle" data-type="register"><%- gettext("Create an account") %></button>
